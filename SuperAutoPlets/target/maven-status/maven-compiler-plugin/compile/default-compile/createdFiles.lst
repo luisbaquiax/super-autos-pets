@@ -1,0 +1,15 @@
+com/peleasanimales/TipoCampoJuego.class
+com/peleasanimales/util/Utiles.class
+com/peleasanimales/manejadores/ManejadorTier.class
+com/peleasanimales/Tier.class
+com/peleasanimales/Main.class
+com/peleasanimales/Player.class
+com/peleasanimales/ComidaEnum.class
+com/peleasanimales/Mascota.class
+com/peleasanimales/manejadores/ManejadorMascota.class
+com/peleasanimales/Tienda.class
+com/peleasanimales/Comida.class
+com/peleasanimales/util/Constantes.class
+com/peleasanimales/CampoJuego.class
+com/peleasanimales/TipoEnum.class
+com/peleasanimales/partida/Partida.class
